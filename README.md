@@ -8,7 +8,6 @@ Disease classification on different plants with using Machine Learning and Convo
   - [Datasets](#datasets)
   - [Installation](#installation)
   - [Running](#running)
-  - [License](#license)
 
 ## Introduction
 
