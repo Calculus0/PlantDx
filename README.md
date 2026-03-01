@@ -18,15 +18,15 @@ The project involves the use of self-designed image processing algorithms and te
 
 ## Datasets
 
-Datasets are available at [here](https://github.com/abdullahselek/plant-disease-classification-pytorch/tree/master/datasets) and in another [repo](https://github.com/abdullahselek/plant-disease-classification-datasets) as compressed file.
+Datasets are available at [here](https://github.com/Calculus0/PlantDx/tree/main/datasets).
 
 ## Installation
 
-The code is hosted at https://github.com/abdullahselek/plant-disease-classification-pytorch
+The code is hosted at https://github.com/Calculus0/PlantDx
 
 Check out the latest development version anonymously with
 
-    git clone git://github.com/abdullahselek/plant-disease-classification-pytorch.git
+    git clone git://github.com/Calculus0/PlantDx.git
     cd plant-disease-classification-pytorch
 
 To install dependencies
